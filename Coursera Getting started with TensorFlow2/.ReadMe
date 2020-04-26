@@ -1,0 +1,11 @@
+Welcome to this course on Getting started with TensorFlow 2!
+
+In this course you will learn a complete end-to-end workflow for developing deep learning models with Tensorflow, from building, training, evaluating and predicting with models using the Sequential API, validating your models and including regularisation, implementing callbacks, and saving and loading models. 
+
+You will put concepts that you learn about into practice straight away in practical, hands-on coding tutorials, which you will be guided through by a graduate teaching assistant. In addition there is a series of automatically graded programming assignments for you to consolidate your skills.
+
+At the end of the course, you will bring many of the concepts together in a Capstone Project, where you will develop an image classifier deep learning model from scratch.
+
+Tensorflow is an open source machine library, and is one of the most widely used frameworks for deep learning. The release of Tensorflow 2 marks a step change in the product development, with a central focus on ease of use for all users, from beginner to advanced level. This course is intended for both users who are completely new to Tensorflow, as well as users with experience in Tensorflow 1.x.
+
+The prerequisite knowledge required in order to be successful in this course is proficiency in the python programming language, (this course uses python 3), knowledge of general machine learning concepts (such as overfitting/underfitting, supervised learning tasks, validation, regularisation and model selection), and a working knowledge of the field of deep learning, including typical model architectures (MLP/feedforward and convolutional neural networks), activation functions, output layers, and optimisation.
